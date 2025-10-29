@@ -45,6 +45,26 @@
 - ✨ I’m endlessly curious and love learning new technologies  
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/egshiglen-henny">
+    <img src="https://github-readme-stats.vercel.app/api?username=egshiglen-henny&show_icons=true&theme=radical&hide_border=false" alt="Egshiglen's GitHub stats" height="150" />
+  </a>
+  <a href="https://github.com/egshiglen-henny">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egshiglen-henny&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="150" />
+  </a>
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=egshiglen-henny&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 
 ### 📫 Connect With Me
 <p align="center">
