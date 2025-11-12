@@ -1,17 +1,17 @@
 <h1 align="center">👋 Hi, I'm Egshiglen Enkhbayar</h1>
 
 <p align="center">
-🎓 Computing Graduate @ CCT College Dublin | 💻 Developer 
+🎓 Computing Graduate @ CCT College Dublin | 💻 Software & DevOps Engineer
 <br>
-🌱 Passionate about building clean, scalable, and impactful technology  
+🌱 Passionate about building clean, scalable, and impactful technology
 </p>
 
 ---
 
 ### 💫 About Me
 - 🌍 Based in **Dublin, Ireland**
-- 👩‍💻 Graduate with **First Class Honours** in Computing  
-- 🧠 Strong foundation in **Python, Java, JavaScript, PHP, and SQL**
+- 🎓 Graduate with **First Class Honours (1:1)** in Computing  
+- 💡 Skilled in **Python, Java, JavaScript, PHP, and SQL**
 - ☁️ Hands-on with **Docker, GitHub Actions (CI/CD), and Cloud technologies**
 - 🪄 Currently enhancing my full-stack and DevOps skills  
 - 💡 I believe technology can make a real difference in people’s lives  
@@ -22,27 +22,40 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
+| 🧠 [**NovaMind – AI Brainstorm Assistant**](https://github.com/egshiglen-henny/novamind) | A Python-based AI brainstorming assistant using **OpenAI API**, **Pytest**, and **GitHub Actions CI/CD** with dynamic test coverage reporting | Python · OpenAI API · Pytest · CI/CD |
 | 🌐 [**TechFolio Website**](https://github.com/egshiglen-henny/techfolio-website) | Personal portfolio builder web app built with login, templates, and responsive design | PHP · JavaScript · Bootstrap · MySQL |
 | 📚 [**Capstone Project – Books Catalog API**](https://github.com/egshiglen-henny/capstone-project) | RESTful API with full DevOps pipeline (Docker, Helm, ArgoCD) and GitHub Actions CI/CD | Python · Django · Docker · Kubernetes |
 | 🍰 [**CakeApp**](https://github.com/egshiglen-henny/cake-app) | Java Swing GUI simulating a cake oven using FIFO queue logic | Java · Swing · OOP · Data Structures |
 | 🧠 [**WorkforceCLI**](https://github.com/egshiglen-henny/workforce-cli) | CLI-based Java program demonstrating OOP, recursion, and sorting/searching algorithms | Java · CLI · Algorithms · Recursion |
 | 🏢 [**Client Rental Database**](https://github.com/egshiglen-henny/client-rental-database) | MySQL database project for a property rental management system with ERD and normalization (1NF–3NF) | SQL · MySQL · ERD · Database Design |
-| 🧮 [**Database Menu App**](https://github.com/egshiglen-henny/database-menu-app) | Java console app performing CRUD operations using JDBC | Java · MySQL · JDBC · CLI |
 | 🌍 [**Networking & Virtualization Lab**](https://github.com/egshiglen-henny/networking-and-virtualization-lab) | Hands-on lab setup featuring Windows Server 2022 and Ubuntu 24.04 in VirtualBox | Linux · Ubuntu · Windows Server · Networking · DHCP · DNS |
 
 ---
 
 ### 🧩 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,mysql,docker,kubernetes,github,git,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,mysql,docker,kubernetes,github,git,linux,vscode,postman,pytest" />
 </p>
+
+---
+
+### 🧪 Recent Highlight
+#### 🧠 NovaMind – AI Brainstorm Assistant  
+> Uses **prompt engineering** and **OpenAI API** to generate realistic, creative project ideas.  
+> Integrated **Pytest** automation and **GitHub Actions CI/CD** with **dynamic coverage badges**.
+
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Testing](https://img.shields.io/badge/Tests-100%25%20Passing-brightgreen)
+![Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-purple)
+![AI](https://img.shields.io/badge/AI-Prompt%20Engineering-orange)
 
 ---
 
 ### 🌸 Fun Facts
 - 🐾 I love animals and helping others whenever I can  
-- ☕ My creativity flows best with good coffee and rock music  
-- ✨ I’m endlessly curious and love learning new technologies  
+- ☕ My creativity flows best with good **coffee + rock music**  
+- ✨ I’m endlessly curious and love learning new tech
 
 ---
 ### 📊 GitHub Stats
@@ -58,13 +71,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=egshiglen-henny&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-</p>
-
----
-
 
 ### 📫 Connect With Me
 <p align="center">
@@ -76,3 +82,5 @@
 ---
 
 ⭐ **“Coding with curiosity, creativity, and compassion.”**
+
+---
